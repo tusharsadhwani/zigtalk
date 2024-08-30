@@ -3,3 +3,6 @@ hello
 hello.pdb
 chart
 out.png
+*.o
+*.a
+add
